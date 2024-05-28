@@ -1,0 +1,92 @@
+{
+  "userList": [
+    {
+      "userId": "1",
+      "userName": "abc",
+      "lName": "sfsf",
+      "fName": "sfdsf",
+      "city": "fdsf",
+      "state": "sdff",
+      "zipCode": "wfwf"
+    },
+    {
+      "userId": "2",
+      "userName": "adfdbc",
+      "lName": "sfsf",
+      "fName": "sfdsf",
+      "city": "fdsf",
+      "state": "sdff",
+      "zipCode": "wfwf"
+    },
+    {
+      "userId": "3",
+      "userName": "abdgc",
+      "lName": "sfsf",
+      "fName": "sfdsf",
+      "city": "fdsf",
+      "state": "sdff",
+      "zipCode": "wfwf"
+    },
+    {
+      "userId": "4",
+      "userName": "arc",
+      "lName": "sfsf",
+      "fName": "sfdsf",
+      "city": "fdsf",
+      "state": "sdff",
+      "zipCode": "wfwf"
+    }
+  ],
+  "cityList": [
+    "mumbai",
+    "pune",
+    "thane"
+  ],
+  "stateList": [
+    "mah",
+    "pun",
+    "goa"
+  ],
+  "creatUser": [
+    {
+      "result": "true",
+      "data": {
+        "userId": "2",
+        "userName": "adfdbc",
+        "lName": "sfsf",
+        "fName": "sfdsf",
+        "city": "fdsf",
+        "state": "sdff",
+        "zipCode": "wfwf"
+      }
+    }
+  ],
+  "updateUser": [
+    {
+      "result": "true",
+      "data": {
+        "userId": "2",
+        "userName": "adfdbc",
+        "lName": "sfsf",
+        "fName": "sfdsf",
+        "city": "fdsf",
+        "state": "sdff",
+        "zipCode": "wfwf"
+      }
+    }
+  ],
+  "deleteUser": [
+    {
+      "result": "true",
+      "data": {
+        "userId": "2",
+        "userName": "adfdbc",
+        "lName": "sfsf",
+        "fName": "sfdsf",
+        "city": "fdsf",
+        "state": "sdff",
+        "zipCode": "wfwf"
+      }
+    }
+  ]
+}
